@@ -10,6 +10,6 @@
 
 5- use arrow key to move Snake.
 
-6- use "space" for play/pause game
+6- use "space" for play/pause game.
 
 7- this snake-game always remember what is your highest scorer.
